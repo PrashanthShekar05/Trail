@@ -1,1 +1,1 @@
-trail test.txt file
+trail hi hello test.txt file
